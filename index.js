@@ -23,3 +23,4 @@ function makeInt(n){
 }
 
 function 
+return parseFloat(10)
